@@ -1,0 +1,5 @@
+g++ *.cpp -o a -lsfml-graphics -lsfml-window -lsfml-system 
+
+optional: -lsfml-audio
+
+./a.out

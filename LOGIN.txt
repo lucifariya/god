@@ -1,5 +1,0 @@
-sqlplus id224101xxxx/id224101xxxx@//172.30.16.99/ora11g
-
-or
-
-isqlplus id224101xxxx
